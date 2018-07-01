@@ -139,7 +139,7 @@ function addRowToGUIHouse(id, v)
 // Pojawianie siê gui i jego znikanie zale¿nie od momentu!
 
 local thenTimer = null;
-local everythingReady = false;
+local everythingReady = true;
 
 function resetAllGrdListGUIHouse()
 {

@@ -1,0 +1,91 @@
+<server>
+
+	<!--- Source list of Client -->	
+
+	<script src="Source/vobs.nut" type="client" />
+	<script src="Source/const.nut" type="client" />
+	<script src="Source/events.nut" type="client" />
+
+	<!--- All GUI Elements -->	
+	
+	<script src="GUI Elements/define.nut" type="client" />
+	<script src="GUI Elements/manager.nut" type="client" />
+	<script src="GUI Elements/texture.nut" type="client" />
+	<script src="GUI Elements/draw.nut" type="client" />
+	<script src="GUI Elements/checkbox.nut" type="client" />
+	<script src="GUI Elements/menu.nut" type="client" />
+	<script src="GUI Elements/button.nut" type="client" />
+	<script src="GUI Elements/list.nut" type="client" />
+	<script src="GUI Elements/bar.nut" type="client" />
+	<script src="GUI Elements/scroll.nut" type="client" />
+	<script src="GUI Elements/gridlist.nut" type="client" />
+	<script src="GUI Elements/input.nut" type="client" />
+	<script src="GUI Elements/tabpanel.nut" type="client" />
+	<script src="GUI Elements/memo.nut" type="client" />
+	<script src="GUI Elements/draw_multiple.nut" type="client" />
+
+	<!--- Scripts default for client -->	
+	
+	<script src="Default Scripts/playerlist.nut" type="client" />
+	<script src="Default Scripts/packets.nut" type="client" />
+	<script src="Default Scripts/chat.nut" type="client" />	
+	<script src="Default Scripts/cmd.nut" type="client" />	
+	<script src="Default Scripts/net.nut" type="client" />	
+
+	<!--- Profession system and other to player! -->		
+	
+	<script src="Player/profession.nut" type="client" />
+	<script src="Player/sprint.nut" type="client" />		
+	<script src="Player/guiManager.nut" type="client" />
+	
+	<!--- Houses system and other to house manage! -->		
+	
+	<script src="House/houseSystem.nut" type="client" />	
+	<script src="House/houseList.nut" type="client" />
+	<script src="House/houseGUI.nut" type="client" />
+	
+	<!--- Menus GUI etc -->	
+	
+	<script src="GUI Menus/start-menu.nut" type="client" />
+	<script src="GUI Menus/game-menu.nut" type="client" />
+	<script src="GUI Menus/pomoc-menu.nut" type="client" />
+	<script src="GUI Menus/wyglad-menu.nut" type="client" />
+	<script src="GUI Menus/desktop.nut" type="client" />
+	<script src="GUI Menus/statistics-menu.nut" type="client" />
+
+	<!--- Craft List GUI -->
+	
+    <script src="GUI Menus/CraftList/kucharz.nut" type="client" />	
+    <script src="GUI Menus/CraftList/kowal.nut" type="client" />	
+
+	<!--- Tools like world builder.! -->
+	
+	<script src="System/trade.nut" type="client" />
+	<script src="System/interactionMobs.nut" type="client" />
+	<script src="System/dialogSystem.nut" type="client" />
+	<script src="System/camera.nut" type="client" />
+	<script src="System/works.nut" type="client" />
+	
+	<!--- Tools like world builder.! -->
+	
+	<script src="Tools/worldBuilder.nut" type="client" />
+	<script src="Tools/vobsWorld.nut" type="client" />
+	<script src="Tools/fastPos.nut" type="client" />
+	<script src="Tools/eggTimer.nut" type="client" />
+	<script src="Tools/craftSystem.nut" type="client" />
+	<script src="Tools/animateDialog.nut" type="client" />
+	<script src="Tools/areaManager.nut" type="client" />
+	<script src="Tools/notifiationSystem.nut" type="client" />
+
+	<!--- NPC interaction and list of then! -->
+	
+	<script src="NPC/interaction.nut" type="client" />	
+	
+	<script src="NPC/Castle/Moe.nut" type="client" />	
+	
+	<!--- Init of client -->	
+	
+	<script src="head.nut" type="client" />	
+	
+	<!--- end -->
+</server>

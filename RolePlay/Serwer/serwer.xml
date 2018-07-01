@@ -1,0 +1,51 @@
+<server>
+	<!--- Source list of Server -->	
+	
+	<script src="Source/const.nut" type="server" />
+	<script src="Source/events.nut" type="server" />
+
+	<!--- Scripts default for server -->	
+	
+	<script src="Default Scripts/file.nut" type="server" />
+	<script src="Default Scripts/packets.nut" type="server" />
+	<script src="Default Scripts/cmd.nut" type="server" />
+
+	<!--- Profession system and other to player! -->	
+	
+	<script src="Player/item.nut" type="server" />	
+	<script src="Player/player.nut" type="server" />	
+	<script src="Player/extra.nut" type="server" />	
+	<script src="Player/profession.nut" type="server" />	
+
+	<!--- Systems scripts in server -->		
+	
+	<script src="System/account.nut" type="server" />	
+	<script src="System/loggIn.nut" type="server" />
+	<script src="System/trade.nut" type="server" />
+	<script src="System/tick.nut" type="server" />
+	<script src="System/herbs.nut" type="server" />
+	<script src="System/mobs.nut" type="server" />
+	<script src="System/house.nut" type="server" />
+	<script src="System/komendy.nut" type="server" />
+	
+	<!--- Tools like herb spawner ! -->		
+	
+	<script src="Tools/vobs-world.nut" type="server" />
+	<script src="Tools/herbs-spawner.nut" type="server" />
+	
+	<!--- Class system ! -->		
+	
+	<script src="Class/system.nut" type="server" />
+	<script src="Class/list.nut" type="server" />
+	
+	<!--- Admin panel -->		
+	
+	<script src="Admin Panel/admin.nut" type="server" />
+	<script src="Admin Panel/acl.nut" type="server" />
+	<script src="Admin Panel/commands.nut" type="server" />
+	<script src="Admin Panel/log.nut" type="server" />
+	
+	<!--- Init of server -->	
+	
+	<script src="head.nut" type="server" />	
+</server>

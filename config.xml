@@ -1,0 +1,33 @@
+<server>
+	<!-- Konfiguracja Serwera -->	
+	<config public=true host_name="Gothic 2 Test RolePlay" max_slots=32 port=28970 rcon_pass="Oass12" />
+	<master host="185.5.97.181" port=7777 />
+	<version build=1 />
+	<world name="COLONY.ZEN" />
+	
+	<!-- Opis Serwera w Launcherze (Zmień se wszystko jak chcesz aby by Quarchodron zostało złodzieju) -->	
+	<description>
+	<![CDATA[
+		<center>
+			<b><a style=color:rgb(0,140,190);font-size:31px;>Role</a><a style=color:rgb(190,230,190);font-size:27px;>Play</a><b></br>
+		</center>
+			<ul style=font-size:10px;color:white>
+				<li>Forum : </li>
+				<li>Discord : </li>
+				<li>Kontakt : </li>
+				<li>Administracja :</li>
+				<li>Gamemode QRoleplay v.0.1</li>
+			</ul><br>
+			<b><font color=green>by Quarchodron</font></b>
+	]]>
+	</description>
+
+	<!-- Import Jakiś tam kurwa skryptów -->
+	<import src="RolePlay/import.xml" />	
+
+	<!-- Listy Przedmiotów i MDS -->	
+	<items src="items.xml" />
+	<mds src="mds.xml" />
+
+	<modification enabled=true />
+</server>

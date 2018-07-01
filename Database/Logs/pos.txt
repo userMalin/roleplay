@@ -1,0 +1,33 @@
+
+
+20/4 7:13 || Pos Brak w pozycji : -4104,-621,3201 0 
+24/4 13:41 || Pos Brak w pozycji : -3209,-611,3377 0 
+24/4 13:42 || Pos Brak w pozycji : -3269,-611,3379 0 
+24/4 13:42 || Pos Brak w pozycji : -3269,-611,3379 0 
+24/4 13:42 || Pos Brak w pozycji : -3269,-611,3379 0 
+24/4 14:11 || Pos Brak w pozycji : -3294,-611,3405 0 
+24/4 14:13 || Pos Brak w pozycji : -3295,-611,3383 0 
+24/4 14:24 || Pos Brak w pozycji : -3359,-611,3369 0 
+24/4 14:25 || Pos Brak w pozycji : -3382,-611,3333 0 
+24/4 14:25 || Pos Brak w pozycji : -3864,-631,3984 0 
+24/4 14:30 || Pos Brak w pozycji : -3295,-611,3366 0 
+24/4 15:3 || Pos Brak w pozycji : -3263,-611,3402 0 
+24/4 15:6 || Pos Brak w pozycji : -3262,-611,3401 0 
+24/4 15:14 || Pos Brak w pozycji : -3307,-615,3426 0 
+24/4 15:17 || Pos Brak w pozycji : -3306,-611,3425 0 
+24/4 15:19 || Pos Brak w pozycji : -3305,-611,3425 0 
+24/4 15:29 || Pos Brak w pozycji : -3311,-611,3373 0 
+24/4 15:31 || Pos Brak w pozycji : -3310,-611,3372 0 
+24/4 15:33 || Pos Brak w pozycji : -3310,-611,3371 0 
+24/4 15:36 || Pos Brak w pozycji : -3310,-611,3370 0 
+24/4 15:39 || Pos Brak w pozycji : -3242,-611,3433 0 
+24/4 15:48 || Pos Brak w pozycji : -3323,-611,3342 0 
+24/4 15:51 || Pos Brak w pozycji : -3292,-611,3492 0 
+24/4 15:55 || Pos Brak w pozycji : -3267,-611,3394 0 
+24/4 15:56 || Pos Brak w pozycji : -3348,-611,3381 0 
+24/4 16:7 || Pos Brak w pozycji : -3299,-611,3379 0 
+24/4 16:9 || Pos Brak w pozycji : -3298,-611,3378 0 
+24/4 16:12 || Pos Brak w pozycji : -3295,-611,3380 0 
+24/4 16:15 || Pos Brak w pozycji : -3295,-611,3380 0 
+25/4 15:51 || Pos Brak w pozycji : -3320,-611,3369 0 
+25/4 18:57 || Pos Brak w pozycji : -3338,-611,3376 0 

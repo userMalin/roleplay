@@ -1,0 +1,5 @@
+<server>
+	<import src="Boty/config.xml" />	
+    <import src="Client/client.xml" />	
+	<import src="Serwer/serwer.xml" />	
+</server>

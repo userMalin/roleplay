@@ -1,0 +1,3 @@
+NieJanek
+ITAR_PAL_M 1
+ITMI_GOLD 50

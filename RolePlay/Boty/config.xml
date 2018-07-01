@@ -1,0 +1,11 @@
+<server>
+	<script src="client/bot_packet.nut" type="client" />
+	<script src="server/bot_packet.nut" type="server" />
+	
+	<script src="define.nut" type="client" />
+	<script src="define.nut" type="server" />
+
+	<script src="client/bot_ai.nut" type="client" />
+	<script src="client/bot.nut" type="client" />
+	<script src="server/bot.nut" type="server" />
+</server>
